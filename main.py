@@ -8,7 +8,7 @@ from random import randint
 #создай окно игры
 font2 = font.SysFont("Arial", 25)
 font3 = font.SysFont("Arial", 50)
-window = display.set_mode((700, 500))
+window = display.set_mode((800, 500))
 display.set_caption("Шутер")
 win_width = 700
 win_hight = 500
